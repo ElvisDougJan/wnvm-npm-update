@@ -1,6 +1,6 @@
 {
   "name": "wnvm-npm-update",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Windows update tools for NPM with NVM",
   "main": "index.js",
   "scripts": {
